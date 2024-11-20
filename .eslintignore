@@ -1,0 +1,8 @@
+# Ignore git folder
+git/
+
+# Ignore other common folders
+node_modules/
+dist/
+build/
+coverage/
