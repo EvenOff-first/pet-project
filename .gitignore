@@ -56,10 +56,5 @@ docker-compose.override.yml
 package-lock.json
 yarn.lock
 
-# TypeScript and Babel configuration files
-tsconfig.json
-tsconfig.build.json
-babel.config.js
-
 # TurboRepo specific
 .turbo/
